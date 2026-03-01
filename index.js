@@ -1,13 +1,13 @@
 const projects = [
   "Animated Landing Page",
-  "To-Do List",
-  "Weather App",
+  "Advanced To-Do List", 
+  "Weather Forecast App",
   "Jewellery-company landing page",
   "Random Image Generator",
   "New Year Countdown",
   "Stylish Animated loginpage",
   "BMI Calculator",
-   "QR Generator",
+  "QR Generator",
   "Rock Paper Scissors Game",
   "Reading Journal",
   "Pong Game",
@@ -18,24 +18,62 @@ const projects = [
   "Mood Timer",
   "text to PDF Convertor",
   "Memory Card Game",
-  "Catch the Falling Object",
+  "Email Validator",  
   "Snake And Ladder Game",
   "Space Jumper Game",
-  "Calculator",
+  "Smart Calculator 2.0",
   "Promodoro Timer",
   "Temperature Converter",
   "Space War Game",
   "CHESS GAME",
-  " ",
-  " ",
+
+  "Bubble Shooter Game",
+  "Animated Login Form",
   "Guess the Number Game",
+  "Typing Speed Test webapp ",
+  "Startup Name Generator Web App",
   "",
-  " ",
+  "Recipe Finder",
   "Snake Game ",
+ "Hangman Game",
+  "Simon Say Game ",
+  " ",
   " ",
   "Doodle Jump Game",
-  "BrainBuzz Quizz Website"
+
+  "BrainBuzz Quizz Website",
+  "",
+
+  " currency Converter",
+
+  " ",
+  "GiggleBits",
+  "",
+  "Digital Clock",
+  "Random Password Generator",
+  "Doodle Jump Game",
+  "BrainBuzz Quizz Website",
+  "Code Editor",
+
+  "Spotify Clone",
+  "Plant Care Scheduler",
+
+  "Mood Quote Poster",
+  "Echo Chamber",
+
+  
+  
+
+  "Typing Survival Game",
+  "Amazon Clone (Web-Page)",
+  "Adventure Flappy Bird",
+"Hacker Runner Game",
+  "Background Cleaner",
+  "Sudoku Solver",
+
+"Typing Speed Checker",
   // Add more project names as needed
+
 ];
 
 const hamburgerBtn = document.getElementById('hamburger-btn');
@@ -105,4 +143,3 @@ projects.forEach((name, index) => {
 
   tableBody.appendChild(row);
 });
-
